@@ -1,0 +1,5 @@
+C:\Users\vinee\source\repos\FizzBuzz\FizzBuzzLib\bin\Debug\FizzBuzzLib.dll
+C:\Users\vinee\source\repos\FizzBuzz\FizzBuzzLib\bin\Debug\FizzBuzzLib.pdb
+C:\Users\vinee\source\repos\FizzBuzz\FizzBuzzLib\obj\Debug\FizzBuzzLib.csproj.CoreCompileInputs.cache
+C:\Users\vinee\source\repos\FizzBuzz\FizzBuzzLib\obj\Debug\FizzBuzzLib.dll
+C:\Users\vinee\source\repos\FizzBuzz\FizzBuzzLib\obj\Debug\FizzBuzzLib.pdb

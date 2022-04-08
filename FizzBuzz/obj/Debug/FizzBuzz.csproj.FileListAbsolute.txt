@@ -1,0 +1,6 @@
+C:\Users\vinee\source\repos\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.csproj.CoreCompileInputs.cache
+C:\Users\vinee\source\repos\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.pdb
+C:\Users\vinee\source\repos\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.pdb
+C:\Users\vinee\source\repos\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.dll.config
+C:\Users\vinee\source\repos\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.dll
+C:\Users\vinee\source\repos\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.dll
